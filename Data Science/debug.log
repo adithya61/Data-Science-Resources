@@ -85,3 +85,4 @@
 [0907/123105.389:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [0907/123105.404:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [0907/123105.404:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1121/231523.857:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
